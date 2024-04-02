@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  padding: 2rem;
+
+}
+
+form {
+  background: linear-gradient(to right, #ff7e5f, #feb47b, #ffdb9e);
+  margin-top: 1rem;
+  padding: 20px;
+}
